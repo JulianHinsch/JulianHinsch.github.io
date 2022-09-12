@@ -11,13 +11,13 @@ permalink: /resume/
 <a href="mailto:jhinsch799@gmail.com">jhinsch799@gmail.com</a>  
 <a href="https://github.com/JulianHinsch" target="_blank">github.com/JulianHinsch</a>
 
-## :wrench: Technical Skills 
+## Technical Skills 
 
 **Languages:**  Javascript, Python, HTML/CSS, C++  
 **Frameworks:** Vue, AngularJS/2+, React, React Native, Express, Django  
 **Databases:** Mongo, Postgres, SQLite 
 
-## :briefcase: Work Experience 
+## Work Experience 
 
 **Lithic (Formerly known as Privacy.com):** Sep 2019 - Aug 2022
 
@@ -37,7 +37,7 @@ Lead developer for NYC-based creative agency.
 - Worked with designers to produce marketing sites for small business clients in the New York area.
 - Larger projects included a user analytics platform for ETFGlobal, multi-lingual support site for McKinsey&Company "Wave", and interactive timeline for GlaskoSmithKline.
 
-## :books: Education 
+## Education 
 
 **Recurse Center:** May 2019 - Aug 2019
 
