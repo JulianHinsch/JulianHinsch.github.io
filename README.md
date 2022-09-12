@@ -5,4 +5,4 @@ Written in [markdown](https://www.markdownguide.org/) using [Jekyll](https://jek
 ## Local Setup
 
 1.  Clone the repo
-2.  Follow steps at https://jekyllrb.com/docs/.  If you run into an error with `webrick` run `bundle add webrick`.
+2.  Follow steps at https://jekyllrb.com/docs/, then run `bundle exec jekyll serve`.  If you run into an error with `webrick` run `bundle add webrick`.

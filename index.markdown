@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+# Hi, I'm Julian!
+## I'm a full stack developer currently living in New Haven, Connecticut.
