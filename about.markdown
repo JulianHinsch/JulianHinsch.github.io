@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## About
+# About
 
 If you want to know about my work experience, check out my [resume](/resume).
 
