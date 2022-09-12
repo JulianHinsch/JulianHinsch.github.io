@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-## Hi, I'm Julian
+## About
 
-If you want to know about my work experience, check out my [resume](/resume).  
+If you want to know about my work experience, check out my [resume](/resume).
+
 I grew up in Princeton, NJ and have since lived in New York City, Vermont, the Jersey Shore, and Connecticut.  
+
 I enjoy hiking, camping, fitness, inline-skating, and emojis :smiley:

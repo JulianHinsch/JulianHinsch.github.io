@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-# Julian Hinsch
+## Julian Hinsch
 
 11 Bishop Street, New Haven CT 06511  
 (609) 721-2326  
@@ -22,6 +22,7 @@ github.com/JulianHinsch
 ### Lithic (Formerly known as Privacy.com): Sep 2019 - Aug 2022
 
 Worked on Privacy.com team as a full stack developer.
+
 My team was responsible for external/internal web clients, React Native mobile app, chrome extension, Node APIs.
 
 Contributed to several key initiatives, including:
@@ -39,7 +40,9 @@ Lead developer for NYC-based creative agency.
 ## :books: Education 
 
 ### Recurse Center: May 2019 - Aug 2019
+
 3-month programming retreat.
 
 ### New York University, College of Arts & Sciences: 2013 - 2017
+
 Bachelor of Arts, Environmental Science, Minor in Web Programming and Applications
