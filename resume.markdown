@@ -16,10 +16,10 @@ Seeking full-stack engineering role. Production level experience with RESTful AP
 **Lithic (Formerly known as Privacy.com)**: Software Engineer I & II  
 Sep 2019 - Aug 2022 
 
-Worked on Privacy’s product team responsible for external/internal web clients, React Native mobile app, chrome extension, and Node APIs.
+Worked on the Privacy product team (B2C), responsible for external/internal web clients, React Native mobile app, chrome extension, and Node APIs.  
 
-- Helped migrate all front end code from AngularJS/Grunt to Vue/Typescript/Webpack.
-- Lead engineer on a major project to reissue cards and retain existing customer spend when Privacy was forced to close a large number of cards. (“Privacy.com Reissuing All Cards” on Hackernews).
+- Helped migrate all front end code from AngularJS/Grunt to Vue/Typescript/Webpack, reducing potential for bugs, improving readability, and making it easier to hire new engineers.  
+- Led project enabling existing customers to reissue expiring cards, which retained customer spend volume when Privacy was forced to close a large number of cards.  
 - Wrote tech specs, interviewed and onboarded new hires, mentored junior engineer.
 
 **The Recurse Center**: Recurser  
