@@ -6,8 +6,7 @@ layout: default
 title: Home
 ---
 
-<img src="/assets/images/me.jpg" style="width:200px;border-radius:50%">
+<img src="/assets/images/me.jpg" style="width:200px;">
+# hi, i'm julian!
 
-# Hi, I'm Julian!
-
-I'm a full stack developer currently living in New Haven, Connecticut.
+I'm an engineer and environmentalist living in New Haven, Connecticut.
