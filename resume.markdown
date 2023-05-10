@@ -13,10 +13,19 @@ Seeking full-stack engineering role. Production level experience with RESTful AP
 
 ## Experience
 
-**Lithic (Formerly known as Privacy.com)**: Software Engineer I & II  
-Sep 2019 - Aug 2022 
+**Basebuild**: Software Engineer
+Mar 2023 - Present
 
-Worked on the Privacy product team (B2C), responsible for external/internal web clients, React Native mobile app, chrome extension, and Node APIs.  
+5th engineering hire at a seed stage construction project management startup.
+
+- Build out financial features in core product to gain feature parity with competitors
+- Improve code review process, instill best practices from prior experience
+- Explore and research text-to-sql for data analytics using python and ChatGPT
+
+**Lithic (Formerly known as Privacy.com)**: Software Engineer I & II
+Sep 2019 - Aug 2022
+
+Worked on the Privacy product team (B2C), responsible for external/internal web clients, React Native mobile app, chrome extension, and Node APIs.
 
 - Helped migrate all front end code from AngularJS/Grunt to Vue/Typescript/Webpack, reducing potential for bugs, improving readability, and making it easier to hire new engineers.  
 - Led project enabling existing customers to reissue expiring cards, which retained customer spend volume when Privacy was forced to close a large number of cards.  
