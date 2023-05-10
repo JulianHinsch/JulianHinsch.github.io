@@ -14,6 +14,7 @@ Seeking full-stack engineering role. Production level experience with RESTful AP
 ## Experience
 
 **Basebuild**: Software Engineer
+
 Mar 2023 - Present
 
 5th engineering hire at a seed stage construction project management startup.
@@ -23,6 +24,7 @@ Mar 2023 - Present
 - Explore and research text-to-sql for data analytics using python and ChatGPT
 
 **Lithic (Formerly known as Privacy.com)**: Software Engineer I & II
+
 Sep 2019 - Aug 2022
 
 Worked on the Privacy product team (B2C), responsible for external/internal web clients, React Native mobile app, chrome extension, and Node APIs.
@@ -32,6 +34,7 @@ Worked on the Privacy product team (B2C), responsible for external/internal web 
 - Wrote tech specs, interviewed and onboarded new hires, mentored junior engineer.
 
 **The Recurse Center**: Recurser  
+
 May 2019 - Aug 2019
 
 Attended 3-month programming retreat in Brooklyn, NY.
@@ -42,6 +45,7 @@ Attended 3-month programming retreat in Brooklyn, NY.
 
 
 **VSEEN**: Developer & Lead Developer  
+
 Nov 2017 - Apr 2019
 
 Contributed to a variety of client software projects in collaboration with creative staff at a growing marketing and design agency.
